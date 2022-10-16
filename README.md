@@ -51,7 +51,7 @@
 
 
 
-- 👨‍💻 <a href="https://github.com/neth99-coder/UMiSF">UMISF</a>\
+- 👨‍💻 <a href="">UMISF</a>\
 📅 2022 (Ongoing)\
 📍 Official web application of UMISF
 
